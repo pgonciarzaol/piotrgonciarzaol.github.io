@@ -1,3 +1,9 @@
 title: Piotr Gonciarz CV
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
+  # Don't include all the files from `folder_to_exclude` in the sitemap
+- scope:
+    path:            resources/**
+  values:
+    sitemap:         false
+
