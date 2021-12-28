@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Print me
-permalink: /Print me/
+title: Contact info
+permalink: /Contact info/
 ---
-### [Click me to downlad CV PDF](https://gitlab.com/pgonciarz/cv/-/blob/main/resources/PiotrGonciarzCV.pdf)
-    
+
+## Contact info:
+#### email: [PiotrGonciarz@aol.com](mailto:piotrgonciarz@aol.com)
+#### phone: +48 782 518 505
