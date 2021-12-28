@@ -103,3 +103,4 @@ Jira, Confluence, YouTrack
 - gaming
 
 
+I hereby give consent for my personal data to be processed for the purpose of conducting recruitment for the position for which I am applying.

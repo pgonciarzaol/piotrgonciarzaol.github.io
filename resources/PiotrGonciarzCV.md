@@ -1,7 +1,3 @@
----
-layout: home
----
-
 ## GETTING STARTED
 
 I'm an automation and manual tester. As a manual tester I am as sensitive in detecting functional mishaps, as I am in targeting user experience weaknesses. I always try to keep as holistic perspective on the product as possible. As an automation tester I feel best in BDD that lets my test blend in development process and positively impact customers satisfaction.
@@ -104,4 +100,4 @@ Jira, Confluence, YouTrack
 - music
 - gaming
 
-
+I hereby give consent for my personal data to be processed  for the purpose of conducting recruitment for the position for which I am applying.
