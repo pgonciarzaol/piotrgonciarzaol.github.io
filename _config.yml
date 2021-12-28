@@ -1,1 +1,3 @@
-theme: just-the-docs
+title: Piotr Gonciarz CV
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
