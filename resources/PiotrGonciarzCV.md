@@ -5,30 +5,27 @@ layout: home
 ## GETTING STARTED
 
 I'm an automation and manual tester. As a manual tester I am as sensitive in detecting functional mishaps, as I am in targeting user experience weaknesses. I always try to keep as holistic perspective on the product as possible. As an automation tester I feel best in BDD that lets my test blend in development process and positively impact customers satisfaction.
-
-
 ## Contact info:
-#### email: PiotrGonciarz@aol.com
+#### email: [PiotrGonciarz@aol.com](mailto:piotrgonciarz@aol.com)
 #### phone: +48 782 518 505
 
-
-##### Sector’s knowledge
+### Sector’s knowledge
 Test Automation, Manual / exploratory testing, Risk estimation, User experience verification
 
-##### Programming languages and frameworks
+### Programming languages and frameworks
 **Java** , Python, C#, JavaScript, **Appium**, **Cucumber**, Bash
 
-##### Databases
+### Databases
 
 Oracle
 
-##### Operating systems
+### Operating systems
 Windows, Linux, MacOS
-##### Project management methodologies
+### Project management methodologies
 Agile, Scrum
-##### Tools for software building and testing
+### Tools for software building and testing
 Selenium, Git, Jenkins, Postman, Intellij Idea, XCODE iOS simulator, android emulator
-##### Other tools
+### Other tools
 Jira, Confluence, YouTrack
 
 ## PROFESSIONAL EXPERIENCE
