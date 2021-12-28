@@ -4,6 +4,7 @@ I'm an automation and manual tester. As a manual tester I am as sensitive in det
 ## Contact info:
 #### email: [PiotrGonciarz@aol.com](mailto:piotrgonciarz@aol.com)
 #### phone: +48 782 518 505
+####  [linkedin](https://www.linkedin.com/in/piotr-gonciarz-qa/)
 
 ### Sector’s knowledge
 Test Automation, Manual / exploratory testing, Risk estimation, User experience verification
